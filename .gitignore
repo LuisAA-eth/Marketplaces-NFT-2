@@ -4,7 +4,7 @@ Thumbs.db
 
 # Entorno virtual de Python
 venv/
-.env
+.env.local
 
 # Archivos de caché de Python
 __pycache__/
